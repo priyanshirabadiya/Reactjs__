@@ -24,7 +24,7 @@ function Time(){
      <div className="mt-11 box mx-3 h-48 text-center align-middle absolute ">
        <h1 style={{fontSize:"25px", fontWeight:"bold" ,color:"", padding :"150px"}}> <p> Hello Friend:</p> <span style={style}>{gretting} </span></h1>
      </div>
-     </>
+    </>
  )
 }
 

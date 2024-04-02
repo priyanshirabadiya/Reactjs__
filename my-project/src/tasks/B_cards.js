@@ -1,20 +1,5 @@
 // rfc ->react function base component
 
-
-// import React from 'react'
-// import img from '../assets/img.webp'
-
-// function Props(props) {
-//     console.log(props)
-//   return (
-//     <div>
-//         <h1>hello {props.name} {props.age} {props.dicscription} {props.title} 
-//         <img src={img} height={50} alt=""/>
-//         </h1>
-//     </div>
-//   )
-// }
-
 import React from 'react'
 export default function Props(props) {
   return (
@@ -37,7 +22,5 @@ export default function Props(props) {
       </div>
     </div>
     </>
-
-
   )
 }
